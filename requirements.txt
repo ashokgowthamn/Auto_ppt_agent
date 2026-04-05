@@ -1,0 +1,6 @@
+mcp
+python-pptx
+langchain
+langchain-core
+langchain-google-genai
+wikipedia
